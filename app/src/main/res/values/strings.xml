@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">myMovies</string>
+    <string name="find_restaurants">Find Restaurants</string>
+    <string name="registerwithus">books</string>
+    <string name="register">books</string>
+    <string name="about">about</string>
+    <string name="aboutus">submit</string>
+    <string name="penta_join">penta</string>
+    <string name="books">books</string>
+    <string name="ViewMovies">ViewMovies</string>
+    <item name="backs" type="id" />
+    <item name="textView" type="id" />
+
+
+</resources>
