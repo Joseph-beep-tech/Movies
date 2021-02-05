@@ -1,8 +1,8 @@
-# My-Library2
+# Movies
 ## Author
 JOSEPH OKOTH
 ## Description
-This is an android application that shows different Book Genres.
+This is an android application that shows different movie types.
 ## Installation
 Download and install Android SDK
 Download and install JAVA
@@ -15,7 +15,7 @@ Java
 Android
 
 ## Link
-https://github.com/Joseph-beep-tech/My-Library2
+https://github.com/Joseph-beep-tech/Movies
 ## Bugs
 No known Bugs.
 ## Contact Information
