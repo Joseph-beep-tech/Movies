@@ -6,7 +6,7 @@
     android:layout_height="150dp"
     android:layout_marginTop="5dp"
     android:padding="8dp"
-    android:background="@drawable/bgg"
+    android:background="#9c51b6"
     android:id="@+id/container">
 
 

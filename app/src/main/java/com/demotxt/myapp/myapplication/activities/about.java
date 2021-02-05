@@ -25,7 +25,7 @@ import java.util.List;
 
 public class about extends AppCompatActivity {
 
-    private final String JSON_URL = "https://gist.githubusercontent.com/Joseph-beep-tech/38014563cab12e177009a3ff4a53703c/raw/6fecdd67c93a54bc87a5792920d252d3c1d15fbc/Library.json" ;
+    private final String JSON_URL = "https://gist.githubusercontent.com/Joseph-beep-tech/38014563cab12e177009a3ff4a53703c/raw/4683fe4e25ef98b5a8278f8ff13a3d0c8759dbaa/Library.json" ;
 
     private JsonArrayRequest request ;
     private RequestQueue requestQueue ;

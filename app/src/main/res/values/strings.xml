@@ -7,7 +7,7 @@
     <string name="aboutus">submit</string>
     <string name="penta_join">penta</string>
     <string name="books">books</string>
-    <string name="ViewMovies">ViewMovies</string>
+    <string name="ViewMovies">View Movies</string>
     <item name="backs" type="id" />
     <item name="textView" type="id" />
 

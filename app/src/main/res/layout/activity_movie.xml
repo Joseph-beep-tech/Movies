@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.demotxt.myapp.myapplication.activities.MovieActivity"
-    android:background="#303030">
+    android:background="#80396a">
 
     <android.support.design.widget.AppBarLayout
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
@@ -116,7 +116,9 @@
             android:text="Movie Description"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:id="@+id/aa_description"/>
+            android:id="@+id/aa_description"
+            android:textSize="25sp"
+            android:textStyle="italic"/>
 
 
 

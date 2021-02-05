@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/ju"
     tools:context=".activities.MainActivity">
 
 
@@ -15,25 +16,25 @@
         android:layout_marginBottom="-1dp"
         android:background="#00FFFF"
         android:text="@string/ViewMovies"
-        android:textColor="@color/colorTextIcons" />
+        android:textColor="#453a2e" />
 
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="428dp"
-        android:layout_height="743dp"
-        android:layout_above="@+id/findRestaurantsButton"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_marginStart="0dp"
-        android:layout_marginTop="-47dp"
-        android:layout_marginEnd="-17dp"
-        android:layout_marginBottom="-15dp"
-        app:srcCompat="@drawable/ju"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginLeft="0dp"
-        android:layout_marginRight="-17dp" />
+<!--    <ImageView-->
+<!--        android:id="@+id/imageView2"-->
+<!--        android:layout_width="428dp"-->
+<!--        android:layout_height="743dp"-->
+<!--        android:layout_above="@+id/findRestaurantsButton"-->
+<!--        android:layout_alignParentStart="true"-->
+<!--        android:layout_alignParentLeft="true"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:layout_alignParentEnd="true"-->
+<!--        android:layout_alignParentRight="true"-->
+<!--        android:layout_marginStart="-2dp"-->
+<!--        android:layout_marginLeft="-2dp"-->
+<!--        android:layout_marginTop="7dp"-->
+<!--        android:layout_marginEnd="-15dp"-->
+<!--        android:layout_marginRight="-15dp"-->
+<!--        android:layout_marginBottom="-68dp"-->
+<!--        app:srcCompat="@drawable/ju" />-->
 
 
 </RelativeLayout>
